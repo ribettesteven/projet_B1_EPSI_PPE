@@ -1,0 +1,8 @@
+-Enregistrement de l'user
+-Accès ou non aux applications
+-Application d'édition et de gestion de devis, commande et facture pour responsable magasin
+-Application d'édition d'achat au comptoir, et de mise a disposition de materiel informatique pour responsable café
+-Application de gestion des équipements en location du magasin pour chef de service
+-Application de gestion des fournisseurs pour chef de service
+-Application de gestion des produits pour chef de service
+
